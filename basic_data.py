@@ -171,7 +171,7 @@ INT_HEROS = ['bane', 'crystal_maiden', 'puck', 'storm_spirit', 'windranger', 'ze
              'outworld_devourer', 'shadow_demon', 'ogre_magi', 'rubick', 'disruptor', 'keeper_of_the_light', 'visage',
              'skywrath_mage', 'techies', 'oracle', 'winter_wyvern']
 
-IMAGE_PATH = 'C:\\Users\\ieatk\\Documents\\Coding\\Dota2BanPicks\\images'
+IMAGE_PATH = 'C:\\Users\\ieatk\\Documents\\Coding\\dota2bps\\images\\'
 
 IMAGES = dict(zip(HEROS, map(lambda hero: IMAGE_PATH + 'normal\\' + hero + '.png', HEROS)))
 IMAGES['unknown'] = IMAGE_PATH + 'normal\\unknown.png'
