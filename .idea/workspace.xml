@@ -2,9 +2,238 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="039d71b9-12bb-4aa5-8dc4-4883b9a625c0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/get_data.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/abaddon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/abyssal_underlord.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/alchemist.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/ancient_apparition.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/antimage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/arc_warden.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/axe.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/bane.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/batrider.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/beastmaster.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/bloodseeker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/bounty_hunter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/brewmaster.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/bristleback.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/broodmother.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/centaur.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/chaos_knight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/chen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/clinkz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/crystal_maiden.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/dark_seer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/dazzle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/death_prophet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/disruptor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/doom_bringer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/dragon_knight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/drow_ranger.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/earth_spirit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/earthshaker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/elder_titan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/ember_spirit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/enchantress.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/enigma.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/faceless_void.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/furion.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/gyrocopter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/huskar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/invoker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/jakiro.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/juggernaut.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/keeper_of_the_light.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/kunkka.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/legion_commander.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/leshrac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/lich.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/life_stealer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/lina.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/lion.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/lone_druid.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/luna.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/lycan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/magnataur.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/medusa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/meepo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/mirana.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/monkey_king.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/morphling.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/naga_siren.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/necrolyte.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/nevermore.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/night_stalker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/nyx_assassin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/obsidian_destroyer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/ogre_magi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/omniknight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/oracle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/phantom_assassin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/phantom_lancer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/phoenix.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/puck.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/pudge.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/pugna.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/queenofpain.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/rattletrap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/razor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/riki.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/rubick.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/sand_king.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/shadow_demon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/shadow_shaman.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/shredder.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/silencer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/skeleton_king.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/skywrath_mage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/slardar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/slark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/sniper.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/spectre.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/spirit_breaker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/storm_spirit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/sven.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/techies.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/templar_assassin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/terrorblade.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/tidehunter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/tinker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/tiny.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/treant.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/troll_warlord.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/tusk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/undying.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/ursa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/vengefulspirit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/venomancer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/viper.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/visage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/warlock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/weaver.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/windrunner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/winter_wyvern.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/wisp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/witch_doctor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mono/zuus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/abaddon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/alchemist.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/ancient_apparition.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/anti-mage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/arc_warden.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/axe.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/bane.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/batrider.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/beastmaster.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/bloodseeker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/bounty_hunter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/brewmaster.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/bristleback.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/broodmother.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/centaur_warrunner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/chaos_knight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/chen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/clinkz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/clockwerk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/crystal_maiden.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/dark_seer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/dazzle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/death_prophet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/disruptor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/doom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/dragon_knight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/drow_ranger.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/earth_spirit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/earthshaker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/elder_titan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/ember_spirit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/enchantress.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/enigma.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/faceless_void.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/gyrocopter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/huskar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/invoker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/io.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/jakiro.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/juggernaut.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/keeper_of_the_light.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/kunkka.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/legion_commander.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/leshrac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/lich.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/lifestealer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/lina.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/lion.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/lone_druid.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/luna.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/lycan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/magnus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/medusa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/meepo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/mirana.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/monkey_king.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/morphling.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/naga_siren.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/natures_prophet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/necrophos.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/night_stalker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/nyx_assassin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/ogre_magi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/omniknight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/oracle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/outworld_devourer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/phantom_assassin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/phantom_lancer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/phoenix.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/puck.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/pudge.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/pugna.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/queen_of_pain.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/razor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/riki.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/rubick.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/sand_king.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/shadow_demon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/shadow_fiend.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/shadow_shaman.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/silencer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/skywrath_mage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/slardar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/slark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/sniper.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/spectre.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/spirit_breaker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/storm_spirit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/sven.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/techies.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/templar_assassin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/terrorblade.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/tidehunter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/timbersaw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/tinker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/tiny.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/treant_protector.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/troll_warlord.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/tusk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/underlord.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/undying.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/unknown.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/ursa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/vengeful_spirit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/venomancer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/viper.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/visage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/warlock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/weaver.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/windranger.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/winter_wyvern.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/witch_doctor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/wraith_king.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/normal/zeus.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/banpick.py" afterPath="$PROJECT_DIR$/banpick.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic_data.py" afterPath="$PROJECT_DIR$/basic_data.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,21 +248,9 @@
       <file leaf-file-name="basic_data.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/basic_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="721">
-              <caret line="175" column="76" lean-forward="false" selection-start-line="175" selection-start-column="76" selection-end-line="175" selection-end-column="76" />
+            <state relative-caret-position="0">
+              <caret line="177" column="0" lean-forward="false" selection-start-line="177" selection-start-column="0" selection-end-line="177" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="banpick.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/banpick.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3970">
-              <caret line="219" column="0" lean-forward="false" selection-start-line="219" selection-start-column="0" selection-end-line="228" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -41,8 +258,8 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="98" column="58" lean-forward="true" selection-start-line="98" selection-start-column="58" selection-end-line="98" selection-end-column="58" />
+            <state relative-caret-position="683">
+              <caret line="178" column="0" lean-forward="false" selection-start-line="178" selection-start-column="0" selection-end-line="178" selection-end-column="0" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -50,14 +267,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.py">
+      <file leaf-file-name="banpick.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/banpick.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="76">
+              <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="get_data.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/get_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -82,15 +307,21 @@
       <find>chose</find>
       <find>select</find>
       <find>'choose'</find>
+      <find>choose</find>
+      <find>hero_buttons</find>
+      <find>IMAGES</find>
+      <find>baned</find>
     </findStrings>
     <replaceStrings>
       <replace>dire_searchbar</replace>
       <replace>radiant_searchbar</replace>
       <replace>onBtn</replace>
-      <replace>hero_labels</replace>
       <replace>todire_btn</replace>
       <replace>hero_buttons</replace>
       <replace>choose</replace>
+      <replace>select</replace>
+      <replace>hero_labels</replace>
+      <replace>banned</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -100,9 +331,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/basic_data.py" />
-        <option value="$PROJECT_DIR$/banpick.py" />
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/banpick.py" />
       </list>
     </option>
   </component>
@@ -134,6 +365,12 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="SearchEverywhereHistoryKey" value="git&#9;ACTION&#9;Github.Open.In.Browser" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ieatk\Documents\Coding\dota2bps" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -207,8 +444,8 @@
     <recent_temporary>
       <list size="3">
         <item index="0" class="java.lang.String" itemvalue="Python.banpick" />
-        <item index="1" class="java.lang.String" itemvalue="Python.main" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -234,12 +471,12 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13515624" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908705" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908705" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32890624" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41914064" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890624" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39915073" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -291,6 +528,134 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/basic_data.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3363">
+          <caret line="177" column="0" lean-forward="false" selection-start-line="177" selection-start-column="0" selection-end-line="177" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3344">
+          <caret line="178" column="0" lean-forward="false" selection-start-line="178" selection-start-column="0" selection-end-line="178" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/banpick.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="112" lean-forward="false" selection-start-line="40" selection-start-column="112" selection-end-line="40" selection-end-column="112" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2261">
+          <caret line="119" column="0" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="136" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/banpick.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1881">
+          <caret line="101" column="40" lean-forward="true" selection-start-line="101" selection-start-column="40" selection-end-line="101" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3325">
+          <caret line="175" column="76" lean-forward="false" selection-start-line="175" selection-start-column="76" selection-end-line="175" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3325">
+          <caret line="175" column="76" lean-forward="false" selection-start-line="175" selection-start-column="76" selection-end-line="175" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/banpick.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4161">
+          <caret line="219" column="0" lean-forward="false" selection-start-line="219" selection-start-column="0" selection-end-line="228" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1824">
+          <caret line="98" column="58" lean-forward="true" selection-start-line="98" selection-start-column="58" selection-end-line="98" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_data.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3325">
           <caret line="175" column="76" lean-forward="false" selection-start-line="175" selection-start-column="76" selection-end-line="175" selection-end-column="76" />
           <folding />
@@ -301,9 +666,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -311,9 +674,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2014">
           <caret line="106" column="70" lean-forward="false" selection-start-line="106" selection-start-column="70" selection-end-line="106" selection-end-column="70" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -329,9 +690,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -339,9 +698,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
           <caret line="28" column="39" lean-forward="true" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -357,9 +714,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -367,9 +722,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="874">
           <caret line="46" column="75" lean-forward="false" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="75" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -387,16 +740,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/banpick.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3970">
-          <caret line="219" column="0" lean-forward="false" selection-start-line="219" selection-start-column="0" selection-end-line="228" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/PyQt5/QtWidgets.pyi">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="305">
@@ -407,26 +750,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/basic_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="721">
-          <caret line="175" column="76" lean-forward="false" selection-start-line="175" selection-start-column="76" selection-end-line="175" selection-end-column="76" />
+        <state relative-caret-position="0">
+          <caret line="177" column="0" lean-forward="false" selection-start-line="177" selection-start-column="0" selection-end-line="177" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/banpick.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="98" column="58" lean-forward="true" selection-start-line="98" selection-start-column="58" selection-end-line="98" selection-end-column="58" />
+        <state relative-caret-position="683">
+          <caret line="178" column="0" lean-forward="false" selection-start-line="178" selection-start-column="0" selection-end-line="178" selection-end-column="0" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>

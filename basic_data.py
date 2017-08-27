@@ -1,3 +1,5 @@
+import os
+
 HEROS = ['axe', 'earthshaker', 'pudge', 'sand_king', 'sven', 'tiny', 'kunkka', 'slardar', 'tidehunter', 'beastmaster',
          'wraith_king', 'dragon_knight', 'clockwerk', 'lifestealer', 'omniknight', 'huskar', 'night_stalker', 'doom',
          'spirit_breaker', 'alchemist', 'lycan', 'brewmaster', 'chaos_knight', 'treant_protector', 'undying', 'io',
@@ -36,7 +38,7 @@ HEROS_CN = {'axe': '斧王', 'earthshaker': '撼地者', 'pudge': '帕吉', 'san
             'jakiro': '杰奇洛', 'batrider': '蝙蝠骑士', 'chen': '陈', 'ancient_apparition': '远古冰魄', 'invoker': '祈求者',
             'silencer': '沉默术士', 'outworld_devourer': '殁境神蚀者', 'shadow_demon': '暗影恶魔', 'ogre_magi': '食人魔魔法师',
             'rubick': '拉比克', 'disruptor': '干扰者', 'keeper_of_the_light': '光之守卫', 'visage': '维萨吉',
-            'skywrath_mage': '天怒法师', 'techies': '工程师', 'oracle': '神谕者', 'winter_wyvern': '寒冬飞龙'}
+            'skywrath_mage': '天怒法师', 'techies': '工程师', 'oracle': '神谕者', 'winter_wyvern': '寒冬飞龙', 'unknown':'尚未挑选'}
 HEROS_EN = {'axe': 'Axe', 'earthshaker': 'Earthshaker', 'pudge': 'Pudge', 'sand_king': 'Sand King', 'sven': 'Sven',
             'tiny': 'Tiny', 'kunkka': 'Kunkka', 'slardar': 'Slardar', 'tidehunter': 'Tidehunter',
             'beastmaster': 'Beastmaster', 'wraith_king': 'Wraith King', 'dragon_knight': 'Dragon Knight',
@@ -171,8 +173,5 @@ INT_HEROS = ['bane', 'crystal_maiden', 'puck', 'storm_spirit', 'windranger', 'ze
              'outworld_devourer', 'shadow_demon', 'ogre_magi', 'rubick', 'disruptor', 'keeper_of_the_light', 'visage',
              'skywrath_mage', 'techies', 'oracle', 'winter_wyvern']
 
-IMAGE_PATH = 'C:\\Users\\ieatk\\Documents\\Coding\\dota2bps\\images\\'
+IMAGE_PATH = os.getcwd()+'\\images\\'
 
-IMAGES = dict(zip(HEROS, map(lambda hero: IMAGE_PATH + 'normal\\' + hero + '.png', HEROS)))
-IMAGES['unknown'] = IMAGE_PATH + 'normal\\unknown.png'
-IMAGES_GRAY = dict(zip(HEROS, map(lambda hero: IMAGE_PATH + 'mono\\' + hero + '.png', HEROS)))
